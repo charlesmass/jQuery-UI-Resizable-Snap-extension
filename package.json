@@ -1,5 +1,5 @@
 {
   "name": "jquery-resizable-snap-extension",
-  "version": "1.0.0",
+  "version": "1.9.2",
   "main": "dist/resizable-snap.min.js"
 }
